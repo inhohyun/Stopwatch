@@ -11,4 +11,5 @@
     <color name="btn_start">#BC9FF1</color>
     <color name="btn_restart">#ECDE64</color>
     <color name="btn_pause">#F9988A</color>
+    <color name="blue">#0059FF</color>
 </resources>
